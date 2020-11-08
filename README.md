@@ -1,6 +1,6 @@
-# Deno webserver
+# 🦕 Deno webserver
 
-This is my webserver project with Deno 🦕
+This is my webserver project with Deno.<br>
 You can find the examples in the folders.
 
 There are multiple examples how to setup Deno:
