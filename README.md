@@ -24,5 +24,8 @@ There are multiple examples how to setup Deno:
 - create, read, update and delete data from mongoDB
 - follows MVC (Model-View-Controller)
 
+#### 🦜 Follow me
+Follow me on [Twitter](https://twitter.com/felix_haeberle) if you want to get the latest updates and hottest news in web development. 🔥😁
+
 
 
